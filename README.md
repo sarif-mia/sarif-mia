@@ -17,11 +17,11 @@
 ---
 
 <div align="center">
-  <h1>🚀 Digital Marketing Expert & Graphics Designer</h1>
-  <p><em>Transforming Ideas into Digital Success Stories</em></p>
+  <h1>🚀 Full Stack Web Developer & Designer</h1>
+  <p><em>Building Modern Web Applications with Django & React</em></p>
 
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Digital+Marketing+Manager;Graphics+%26+Web+Designer;Content+Creator;SEO+Specialist;3%2B+Years+Experience" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%26+React+Expert;Python+Developer;UI%2FUX+Designer;3%2B+Years+Experience" alt="Typing Animation"/>
   </div>
 
   <div align="center" style="margin-top: 20px;">
@@ -60,28 +60,29 @@
 
 <div align="center">
 
-### 💎 Digital Marketing
+### 🎨 Graphics Design
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=photoshop" width="50" height="50" alt="Photoshop"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="Illustrator"/>
+</div>
+
+### 💻 Web Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/>
+</div>
+
+### 📱 Digital Marketing
 <div align="center">
   <img src="https://skillicons.dev/icons?i=facebook" width="50" height="50" alt="Facebook"/>
   <img src="https://skillicons.dev/icons?i=google" width="50" height="50" alt="Google Ads"/>
   <img src="https://skillicons.dev/icons?i=youtube" width="50" height="50" alt="YouTube"/>
   <img src="https://skillicons.dev/icons?i=seo" width="50" height="50" alt="SEO"/>
-</div>
-
-### 🎨 Graphics Design
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop" width="50" height="50" alt="Photoshop"/>
-  <img src="https://skillicons.dev/icons?i=canva" width="50" height="50" alt="Canva"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/>
-  <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="Illustrator"/>
-</div>
-
-### 🌐 Web Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress" width="50" height="50" alt="WordPress"/>
-  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
 </div>
 
 </div>
@@ -117,12 +118,12 @@
 
 | Service | Description | Status |
 |---------|-------------|---------|
-| **Facebook Marketing** | Complete page setup & ad campaigns | ✅ Available |
-| **Google Ads** | Search & display advertising | ✅ Available |
-| **YouTube SEO** | Channel optimization & growth | ✅ Available |
-| **Graphics Design** | Logos, banners, social media posts | ✅ Available |
-| **Web Development** | WordPress sites & landing pages | ✅ Available |
-| **Content Creation** | Writing, images & video content | ✅ Available |
+| **Django Development** | Full-stack web apps with Python/Django | ✅ Available |
+| **React Applications** | Modern frontend development | ✅ Available |
+| **Web Development** | Custom websites & web applications | ✅ Available |
+| **Graphics Design** | UI/UX design & branding | ✅ Available |
+| **Digital Marketing** | Social media & SEO optimization | ✅ Available |
+| **Technical Consulting** | Web development guidance & support | ✅ Available |
 
 </div>
 
