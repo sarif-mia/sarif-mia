@@ -134,8 +134,51 @@
 <div align="center">
 
 ### 📌 Recent Work
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarif-mia&repo=sarif-mia&theme=tokyonight" alt="Featured Project"/>
+
+#### 🚀 E-Commerce Platform
+<div align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+</div>
+<p><em>Full-stack e-commerce solution with advanced features</em></p>
+<a href="https://github.com/sarif-mia/ecommerce-platform" target="_blank">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://ecommerce-demo.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+
+#### 📱 Task Management App
+<div align="center">
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
+</div>
+<p><em>Cross-platform mobile app for team productivity</em></p>
+<a href="https://github.com/sarif-mia/task-manager" target="_blank">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+#### 🎨 Portfolio Website
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>
+</div>
+<p><em>Modern portfolio with smooth animations and responsive design</em></p>
+<a href="https://github.com/sarif-mia/portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://portfolio-demo.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+
 </div>
 
 ### 🏆 Achievements
@@ -143,12 +186,12 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Campaigns-100%2B%20Successful-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Campaigns"/>
-        <br><strong>100+ Successful Campaigns</strong>
+        <img src="https://img.shields.io/badge/Projects-50%2B%20Completed-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects"/>
+        <br><strong>50+ Projects Completed</strong>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Clients-50%2B%20Happy-green?style=for-the-badge&logo=people&logoColor=white" alt="Clients"/>
-        <br><strong>50+ Happy Clients</strong>
+        <img src="https://img.shields.io/badge/Clients-100%2B%20Happy-green?style=for-the-badge&logo=people&logoColor=white" alt="Clients"/>
+        <br><strong>100+ Happy Clients</strong>
       </td>
     </tr>
     <tr>
@@ -176,6 +219,9 @@
 <div align="center">
   <a href="https://github.com/sarif-mia/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://vercel.com/sarif-mias-projects" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   </a>
   <a href="https://www.facebook.com/sarifmiia" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
