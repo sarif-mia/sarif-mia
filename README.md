@@ -2,7 +2,7 @@
 
 # sarif-mia
 
-# 👋 Hi there! I'm Athanasia Monika Mowinckel
+# 👋 Hi there! I'm Sarif Mia
 
 **`Full-Stack Developer & Open Source Enthusiast`**
 
@@ -14,11 +14,11 @@ I work as a staff scientist at the Center for Lifespan Changes in Brain and Cogn
 
 ---
 
-## 📊 Athanasia Monika Mowinckel's GitHub Stats
+## 📊Sarif Mia's GitHub Stats
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DrMowinckels&show_icons=true&theme=radical)](https://github.com/DrMowinckels)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarif-mias&show_icons=true&theme=radical)](https://github.com/sarif-mia)
 
 </div>
 
@@ -67,7 +67,7 @@ I work as a staff scientist at the Center for Lifespan Changes in Brain and Cogn
 
 <div align="center">
 
-![DrMowinckels](https://github-readme-stats.vercel.app/api/pin/?username=DrMowinckels&repo=DrMowinckels&theme=radical)
+![DrMowinckels](https://github-readme-stats.vercel.app/api/pin/?username=sarif-mia&repo=sarif-mia&theme=radical)
 
 </div>
 
@@ -77,7 +77,7 @@ I work as a staff scientist at the Center for Lifespan Changes in Brain and Cogn
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DrMowinckels&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarif-mia&theme=react-dark)
 
 </div>
 
@@ -99,6 +99,6 @@ I work as a staff scientist at the Center for Lifespan Changes in Brain and Cogn
 
 <div align="center">
 
-**Updated 2024-06-14 19:37:49.990834**
+**Updated 2025-06-14 19:37:49.990834**
 
 </div>
