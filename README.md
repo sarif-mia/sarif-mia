@@ -23,6 +23,22 @@
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Digital+Marketing+Manager;Graphics+%26+Web+Designer;Content+Creator;SEO+Specialist;3%2B+Years+Experience" alt="Typing Animation"/>
   </div>
+
+  <div align="center" style="margin-top: 20px;">
+    <p><strong>Specialized Services:</strong></p>
+    <div align="center">
+      <img src="https://img.shields.io/badge/Facebook%20Marketing-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Marketing"/>
+      <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=google&logoColor=white" alt="Google Ads"/>
+      <img src="https://img.shields.io/badge/YouTube%20SEO-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube SEO"/>
+      <img src="https://img.shields.io/badge/Graphics%20Design-FF6B35?style=flat&logo=adobe&logoColor=white" alt="Graphics Design"/>
+    </div>
+    <p style="margin-top: 10px;">
+      <strong>📱 Social Media Management</strong> |
+      <strong>🎨 Brand Identity Design</strong> |
+      <strong>📹 Video Content Creation</strong> |
+      <strong>🌐 Website Development</strong>
+    </p>
+  </div>
 </div>
 
 ---
@@ -122,10 +138,30 @@
 </div>
 
 ### 🏆 Achievements
-- ✅ **100+** Successful Campaigns
-- ✅ **50+** Happy Clients
-- ✅ **3+** Years Experience
-- ✅ **24/7** Support Available
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Campaigns-100%2B%20Successful-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Campaigns"/>
+        <br><strong>100+ Successful Campaigns</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Clients-50%2B%20Happy-green?style=for-the-badge&logo=people&logoColor=white" alt="Clients"/>
+        <br><strong>50+ Happy Clients</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience"/>
+        <br><strong>3+ Years Experience</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Support-24%2F7%20Available-red?style=for-the-badge&logo=clock&logoColor=white" alt="Support"/>
+        <br><strong>24/7 Support Available</strong>
+      </td>
+    </tr>
+  </table>
+</div>
 
 </div>
 
