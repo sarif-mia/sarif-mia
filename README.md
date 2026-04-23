@@ -1,30 +1,20 @@
-<div align="center">
-
-#  Hi, I'm Sarif Mia
-
-<a href="https://github.com/sarif-mia/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.facebook.com/sarifmiia" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
-<a href="https://www.linkedin.com/in/sarif-mia/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-</div>
+# Hi, I'm Sarif Mia
 
 ---
 
-<div align="center">
-  <h2>🚀 Full Stack Web Developer & UI/UX Designer</h2>
-  <p><strong>Building modern, scalable web applications with a focus on performance and user experience.</strong></p>
+## About Me
 
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%26+React+Expert;Python+Developer;UI%2FUX+Designer;3%2B+Years+Experience" alt="Typing Animation"/>
-  </div>
+I'm a Full Stack Web Developer & UI/UX Designer. I focus on building modern, scalable web applications with an emphasis on performance and user experience.
 
-</div>
+---
+
+## Connect with Me
+
+- [GitHub](https://github.com/sarif-mia/)
+- [Facebook](https://www.facebook.com/sarifmiia)
+- [LinkedIn](https://www.linkedin.com/in/sarif-mia/)
+
+---
 
 ---
 
@@ -40,54 +30,35 @@
 
 ---
 
-## 📈 Professional Analytics
+##  GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarif-mia&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="GitHub Trophies" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarif-mia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sarif-mia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F7F7&text_color=ffffff&icon_color=00F7F7" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarif-mia&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7F7&text_color=ffffff" alt="Top Languages" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarif-mia&theme=tokyonight&hide_border=true&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakNum=00F7F7" alt="GitHub Streak" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarif-mia&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ##  Featured Projects
 
 ### 🚀 [E-Commerce Platform](https://github.com/sarif-mia/ecommerce-platform)
-> *A full-featured shopping experience with real-time inventory management.*
+A full-featured shopping experience with real-time inventory management.
 **Stack:** `Django` • `React` • `PostgreSQL` • `Redis`
-<p>
-  <a href="https://github.com/sarif-mia/ecommerce-platform"><b>Code</b></a> • 
-  <a href="https://ecommerce-demo.vercel.app"><b>Live Demo</b></a>
-</p>
+
+- Code
+- Live Demo
 
 ### 📱 Task Management App
-> *Collaborative workspace for teams to track progress and deadlines.*
+Collaborative workspace for teams to track progress and deadlines.
 **Stack:** `React Native` • `Node.js` • `MongoDB` • `Express`
-<p>
-  <a href="https://github.com/sarif-mia/task-manager"><b>Code</b></a>
-</p>
+
+- Code
 
 ### 🎨 Modern Portfolio
-> *High-performance portfolio with Framer Motion animations.*
+High-performance portfolio with Framer Motion animations.
 **Stack:** `Next.js` • `TypeScript` • `Tailwind CSS` • `Framer Motion`
-<p>
-  <a href="https://github.com/sarif-mia/portfolio"><b>Code</b></a> • 
-  <a href="https://portfolio-demo.vercel.app"><b>Live Demo</b></a>
-</p>
+
+- Code
+- Live Demo
 
 ---
 
@@ -97,28 +68,20 @@
   <table width="100%">
     <tr>
       <td align="center">
-        <h3>50+</h3>
-        <p>Projects Completed</p>
+        **50+** <br> Projects Completed
       </td>
       <td align="center">
-        <h3>100+</h3>
-        <p>Happy Clients</p>
+        **100+** <br> Happy Clients
       </td>
       <td align="center">
-        <h3>3+ Years</h3>
-        <p>Experience</p>
+        **3+ Years** <br> Experience
       </td>
       <td align="center">
-        <h3>24/7</h3>
-        <p>Support</p>
+        **24/7** <br> Support
       </td>
     </tr>
   </table>
 </div>
-
----
-
-## 🤝 Let's Connect
 
 <div align="center">
   <p>Interested in working together or just want to say hi?</p>
