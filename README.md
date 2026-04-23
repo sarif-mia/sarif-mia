@@ -1,15 +1,15 @@
 <div align="center">
 
-# 🌟 SARIF MIA 🌟
+# 👋 Hi, I'm Sarif Mia
 
 <a href="https://github.com/sarif-mia/" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.facebook.com/sarifmiia" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 <a href="https://www.linkedin.com/in/sarif-mia/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -17,168 +17,98 @@
 ---
 
 <div align="center">
-  <h1>🚀 Full Stack Web Developer & Designer</h1>
-  <p><em>Building Modern Web Applications with Django & React</em></p>
+  <h2>🚀 Full Stack Web Developer & UI/UX Designer</h2>
+  <p><strong>Building modern, scalable web applications with a focus on performance and user experience.</strong></p>
 
   <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Django+%26+React+Expert;Python+Developer;UI%2FUX+Designer;3%2B+Years+Experience" alt="Typing Animation"/>
   </div>
 
-  <div align="center" style="margin-top: 20px;">
-    <p><strong>Specialized Services:</strong></p>
-    <div align="center">
-      <img src="https://img.shields.io/badge/Facebook%20Marketing-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Marketing"/>
-      <img src="https://img.shields.io/badge/Google%20Ads-4285F4?style=flat&logo=google&logoColor=white" alt="Google Ads"/>
-      <img src="https://img.shields.io/badge/YouTube%20SEO-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube SEO"/>
-      <img src="https://img.shields.io/badge/Graphics%20Design-FF6B35?style=flat&logo=adobe&logoColor=white" alt="Graphics Design"/>
-    </div>
-    <p style="margin-top: 10px;">
-      <strong>📱 Social Media Management</strong> |
-      <strong>🎨 Brand Identity Design</strong> |
-      <strong>📹 Video Content Creation</strong> |
-      <strong>🌐 Website Development</strong>
-    </p>
-  </div>
 </div>
 
 ---
 
-## 📊 Professional Dashboard
+## 🛠️ Technical Stack & Expertise
 
-<div align="center">
-
-### 🔥 Current Status
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-blue?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Bangladesh-green?style=for-the-badge)
-
-</div>
-
----
-
-## 🛠️ Core Expertise
-
-| Category | Skills |
-|----------|--------|
-| 🎨 Graphics Design | Photoshop, Figma, Illustrator |
-| 💻 Web Development | Django, Python, React, JavaScript, HTML, CSS |
-| 📱 Digital Marketing | Facebook, Google Ads, YouTube, SEO |
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) |
+| **Marketing** | ![FB Ads](https://img.shields.io/badge/-Facebook%20Ads-1877F2?style=flat-square&logo=facebook&logoColor=white) ![Google Ads](https://img.shields.io/badge/-Google%20Ads-4285F4?style=flat-square&logo=google&logoColor=white) ![SEO](https://img.shields.io/badge/-SEO-FF0000?style=flat-square&logo=youtube&logoColor=white) |
 
 ---
 
-## 📈 Performance Metrics
+##  Analytics & Impact
 
 <div align="center">
-
-### 📊 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarif-mia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</div>
-
-### 🔥 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarif-mia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-### 📱 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarif-mia&theme=github-dark" alt="Contribution Graph"/>
-</div>
-
-</div>
-
----
-
-## 🎯 Services Offered
-
-<div align="center">
-
-| Service | Description | Status |
-|---------|-------------|---------|
-| **Django Development** | Full-stack web apps with Python/Django | ✅ Available |
-| **React Applications** | Modern frontend development | ✅ Available |
-| **Web Development** | Custom websites & web applications | ✅ Available |
-| **Graphics Design** | UI/UX design & branding | ✅ Available |
-| **Digital Marketing** | Social media & SEO optimization | ✅ Available |
-| **Technical Consulting** | Web development guidance & support | ✅ Available |
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 📌 Recent Work
-
-<div align="center">
-
-#### 🚀 E-Commerce Platform
-<div align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
-</div>
-<p><em>Full-stack e-commerce solution with advanced features</em></p>
-<a href="https://github.com/sarif-mia/ecommerce-platform" target="_blank">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://ecommerce-demo.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-
-#### 📱 Task Management App
-<div align="center">
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
-</div>
-<p><em>Cross-platform mobile app for team productivity</em></p>
-<a href="https://github.com/sarif-mia/task-manager" target="_blank">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-#### 🎨 Portfolio Website
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" alt="Framer Motion"/>
-</div>
-<p><em>Modern portfolio with smooth animations and responsive design</em></p>
-<a href="https://github.com/sarif-mia/portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://portfolio-demo.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat&logo=vercel&logoColor=white" alt="Live Demo"/>
-</a>
-
-</div>
-
-### 🏆 Achievements
-<div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Projects-50%2B%20Completed-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects"/>
-        <br><strong>50+ Projects Completed</strong>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=sarif-mia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Clients-100%2B%20Happy-green?style=for-the-badge&logo=people&logoColor=white" alt="Clients"/>
-        <br><strong>100+ Happy Clients</strong>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarif-mia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
       </td>
     </tr>
     <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarif-mia&theme=github-dark&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+##  Featured Projects
+
+### 🚀 [E-Commerce Platform](https://github.com/sarif-mia/ecommerce-platform)
+> *A full-featured shopping experience with real-time inventory management.*
+**Tech:** `Django` • `React` • `PostgreSQL` • `Redis`
+<p>
+  <a href="https://github.com/sarif-mia/ecommerce-platform"><b>Code</b></a> • 
+  <a href="https://ecommerce-demo.vercel.app"><b>Live Demo</b></a>
+</p>
+
+### 📱 Task Management App
+> *Collaborative workspace for teams to track progress and deadlines.*
+**Tech:** `React Native` • `Node.js` • `MongoDB` • `Express`
+<p>
+  <a href="https://github.com/sarif-mia/task-manager"><b>Code</b></a>
+</p>
+
+### 🎨 Modern Portfolio
+> *High-performance portfolio with Framer Motion animations.*
+**Tech:** `Next.js` • `TypeScript` • `Tailwind CSS` • `Framer Motion`
+<p>
+  <a href="https://github.com/sarif-mia/portfolio"><b>Code</b></a> • 
+  <a href="https://portfolio-demo.vercel.app"><b>Live Demo</b></a>
+</p>
+
+---
+
+##  Professional Highlights
+
+<div align="center">
+  <table width="100%">
+    <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Experience-3%2B%20Years-orange?style=for-the-badge&logo=calendar&logoColor=white" alt="Experience"/>
-        <br><strong>3+ Years Experience</strong>
+        <h3>50+</h3>
+        <p>Projects Completed</p>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Support-24%2F7%20Available-red?style=for-the-badge&logo=clock&logoColor=white" alt="Support"/>
-        <br><strong>24/7 Support Available</strong>
+        <h3>100+</h3>
+        <p>Happy Clients</p>
+      </td>
+      <td align="center">
+        <h3>3+ Years</h3>
+        <p>Experience</p>
+      </td>
+      <td align="center">
+        <h3>24/7</h3>
+        <p>Support</p>
       </td>
     </tr>
   </table>
@@ -188,33 +118,21 @@
 
 ---
 
-## 📞 Contact & Connect
+## 🤝 Let's Connect
 
 <div align="center">
-
-### 🌐 Social Links
-<div align="center">
-  <a href="https://github.com/sarif-mia/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://vercel.com/sarif-mias-projects" target="_blank">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  </a>
-  <a href="https://www.facebook.com/sarifmiia" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sarif-mia/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
-### 📧 Business Inquiries
-<div align="center">
-  <h3>Ready to grow your business?</h3>
-  <p>Let's discuss your project!</p>
+  <p>Interested in working together or just want to say hi?</p>
 
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&color=00F7F7&center=true&vCenter=true&width=400&lines=Contact+me+today!;Let's+create+something+amazing!;Your+success+is+my+mission!" alt="Contact Animation"/>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/sarif-mia/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/sarif-mia/" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
   </div>
 </div>
 
