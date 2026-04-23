@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sarif Mia
+#  Hi, I'm Sarif Mia
 
 <a href="https://github.com/sarif-mia/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
@@ -40,21 +40,23 @@
 
 ---
 
-##  Analytics & Impact
+## 📈 Professional Analytics
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarif-mia&theme=tokyonight&no-bg=true&margin-w=15&column=5" alt="GitHub Trophies" />
+
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=sarif-mia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=sarif-mia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F7F7&text_color=ffffff&icon_color=00F7F7" alt="GitHub Stats" width="100%"/>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarif-mia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarif-mia&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7F7&text_color=ffffff" alt="Top Languages" width="100%"/>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarif-mia&theme=github-dark&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarif-mia&theme=tokyonight&hide_border=true&stroke=00F7F7&ring=00F7F7&fire=00F7F7&currStreakNum=00F7F7" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
   </table>
@@ -66,7 +68,7 @@
 
 ### 🚀 [E-Commerce Platform](https://github.com/sarif-mia/ecommerce-platform)
 > *A full-featured shopping experience with real-time inventory management.*
-**Tech:** `Django` • `React` • `PostgreSQL` • `Redis`
+**Stack:** `Django` • `React` • `PostgreSQL` • `Redis`
 <p>
   <a href="https://github.com/sarif-mia/ecommerce-platform"><b>Code</b></a> • 
   <a href="https://ecommerce-demo.vercel.app"><b>Live Demo</b></a>
@@ -74,14 +76,14 @@
 
 ### 📱 Task Management App
 > *Collaborative workspace for teams to track progress and deadlines.*
-**Tech:** `React Native` • `Node.js` • `MongoDB` • `Express`
+**Stack:** `React Native` • `Node.js` • `MongoDB` • `Express`
 <p>
   <a href="https://github.com/sarif-mia/task-manager"><b>Code</b></a>
 </p>
 
 ### 🎨 Modern Portfolio
 > *High-performance portfolio with Framer Motion animations.*
-**Tech:** `Next.js` • `TypeScript` • `Tailwind CSS` • `Framer Motion`
+**Stack:** `Next.js` • `TypeScript` • `Tailwind CSS` • `Framer Motion`
 <p>
   <a href="https://github.com/sarif-mia/portfolio"><b>Code</b></a> • 
   <a href="https://portfolio-demo.vercel.app"><b>Live Demo</b></a>
@@ -112,8 +114,6 @@
       </td>
     </tr>
   </table>
-</div>
-
 </div>
 
 ---
@@ -153,11 +153,8 @@
 
 ### 💡 Quote of the Day
 <div align="center">
-  <blockquote>
-    <em>"The best way to predict the future is to create it."</em>
-    <br>
-    <strong>- Peter Drucker</strong>
-  </blockquote>
+  <p><i>"The best way to predict the future is to create it."</i></p>
+  <p><strong>— Peter Drucker</strong></p>
 </div>
 
 </div>
