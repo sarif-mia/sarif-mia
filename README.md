@@ -58,34 +58,11 @@
 
 ## 🛠️ Core Expertise
 
-<div align="center">
-
-### 🎨 Graphics Design
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop" width="50" height="50" alt="Photoshop"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/>
-  <img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="Illustrator"/>
-</div>
-
-### 💻 Web Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django"/>
-  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/>
-</div>
-
-### 📱 Digital Marketing
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=facebook" width="50" height="50" alt="Facebook"/>
-  <img src="https://skillicons.dev/icons?i=google" width="50" height="50" alt="Google Ads"/>
-  <img src="https://skillicons.dev/icons?i=youtube" width="50" height="50" alt="YouTube"/>
-  <img src="https://skillicons.dev/icons?i=seo" width="50" height="50" alt="SEO"/>
-</div>
-
-</div>
+| Category | Skills |
+|----------|--------|
+| 🎨 Graphics Design | Photoshop, Figma, Illustrator |
+| 💻 Web Development | Django, Python, React, JavaScript, HTML, CSS |
+| 📱 Digital Marketing | Facebook, Google Ads, YouTube, SEO |
 
 ---
 
