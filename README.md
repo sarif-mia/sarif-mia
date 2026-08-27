@@ -121,22 +121,11 @@ I am a software engineer with **5+ years of experience** designing and developin
 
 <table width="100%">
 	<tr>
-		<th align="left">Websites</th>
-	</tr>
-	<tr>
-		<td><a href="https://lovegen.com"><strong>lovegen.com</strong></a></td>
-	</tr>
-	<tr>
-		<td><a href="https://dunamiss.in"><strong>dunamiss.in</strong></a></td>
-	</tr>
-	<tr>
-		<td><a href="https://lvgn.com"><strong>lvgn.com</strong></a></td>
-	</tr>
-	<tr>
-		<td><a href="https://dunacare.in"><strong>dunacare.in</strong></a></td>
-	</tr>
-	<tr>
-		<td><a href="https://nds9.co"><strong>nds9.co</strong></a></td>
+		<td align="left" width="20%"><a href="https://lovegen.com"><strong>lovegen.com</strong></a></td>
+		<td align="left" width="20%"><a href="https://dunamiss.in"><strong>dunamiss.in</strong></a></td>
+		<td align="left" width="20%"><a href="https://lvgn.com"><strong>lvgn.com</strong></a></td>
+		<td align="left" width="20%"><a href="https://dunacare.in"><strong>dunacare.in</strong></a></td>
+		<td align="left" width="20%"><a href="https://nds9.co"><strong>nds9.co</strong></a></td>
 	</tr>
 </table>
 
