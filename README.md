@@ -121,11 +121,11 @@ I am a software engineer with **5+ years of experience** designing and developin
 
 <table width="100%">
 	<tr>
-		<td align="left" width="20%"><a href="https://lovegen.com" style="text-decoration: none;">&#128279;&nbsp;<strong>lovegen.com</strong></a></td>
-		<td align="left" width="20%"><a href="https://dunamiss.in" style="text-decoration: none;">&#128279;&nbsp;<strong>dunamiss.in</strong></a></td>
-		<td align="left" width="20%"><a href="https://lvgn.com" style="text-decoration: none;">&#128279;&nbsp;<strong>lvgn.com</strong></a></td>
-		<td align="left" width="20%"><a href="https://dunacare.in" style="text-decoration: none;">&#128279;&nbsp;<strong>dunacare.in</strong></a></td>
-		<td align="left" width="20%"><a href="https://nds9.co" style="text-decoration: none;">&#128279;&nbsp;<strong>nds9.co</strong></a></td>
+		<td align="left" width="20%"><a href="https://lovegen.com"><img src="https://img.shields.io/badge/%F0%9F%94%97-lovegen.com-181717?style=flat-square" alt="lovegen.com" /></a></td>
+		<td align="left" width="20%"><a href="https://dunamiss.in"><img src="https://img.shields.io/badge/%F0%9F%94%97-dunamiss.in-0f766e?style=flat-square" alt="dunamiss.in" /></a></td>
+		<td align="left" width="20%"><a href="https://lvgn.com"><img src="https://img.shields.io/badge/%F0%9F%94%97-lvgn.com-2563eb?style=flat-square" alt="lvgn.com" /></a></td>
+		<td align="left" width="20%"><a href="https://dunacare.in"><img src="https://img.shields.io/badge/%F0%9F%94%97-dunacare.in-d97706?style=flat-square" alt="dunacare.in" /></a></td>
+		<td align="left" width="20%"><a href="https://nds9.co"><img src="https://img.shields.io/badge/%F0%9F%94%97-nds9.co-111827?style=flat-square" alt="nds9.co" /></a></td>
 	</tr>
 </table>
 
