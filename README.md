@@ -110,31 +110,22 @@ I am a software engineer with **5+ years of experience** designing and developin
 
 ## Connect
 
-<table width="100%">
-	<tr>
-		<td align="center" width="25%">
-			<a href="https://github.com/sarif-mia/">
-				<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="150" height="36" />
-			</a><br />
-			<sub>Code</sub>
-		</td>
-		<td align="center" width="25%">
-			<a href="https://www.linkedin.com/in/sarif-mia/">
-				<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="36" />
-			</a><br />
-			<sub>Network</sub>
-		</td>
-		<td align="center" width="25%">
-			<a href="https://www.facebook.com/mohammad.sarifmiia">
-				<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="150" height="36" />
-			</a><br />
-			<sub>Social</sub>
-		</td>
-		<td align="center" width="25%">
-			<a href="mailto:sarifmia.ofc@gmail.com">
-				<img src="https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="150" height="36" />
-			</a><br />
-			<sub>Contact</sub>
-		</td>
-	</tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/sarif-mia/" title="GitHub">
+	<img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="42" height="42" style="border-radius: 50%;" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sarif-mia/" title="LinkedIn">
+	<img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="42" height="42" style="border-radius: 50%;" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/mohammad.sarifmiia" title="Facebook">
+	<img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="42" height="42" style="border-radius: 50%;" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:sarifmia.ofc@gmail.com" title="Email">
+	<img src="https://cdn.simpleicons.org/gmail/D97706" alt="Email" width="42" height="42" style="border-radius: 50%;" />
+</a>
+
+</div>
