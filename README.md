@@ -7,7 +7,7 @@
 Building scalable digital products with clean architecture, thoughtful user experiences, and reliable performance.
 
 <a href="https://nds9.co"><img src="https://img.shields.io/badge/Software%20Engineer-NDS9-111827?style=for-the-badge" alt="Software Engineer at NDS9"></a>
-<a href="https://aihrbd.com"><img src="https://img.shields.io/badge/Founder-Aihrbd-0f766e?style=for-the-badge" alt="Founder of Aihrbd"></a>
+<a href="https://aihrbd.com"><img src="https://img.shields.io/badge/Developer%20%26%20Founder-Aihrbd-0f766e?style=for-the-badge" alt="Developer and Founder of Aihrbd"></a>
 <a href="mailto:sarifmia.ofc@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-d97706?style=for-the-badge" alt="Email Sarif Mia"></a>
 
 </div>
@@ -16,9 +16,29 @@ Building scalable digital products with clean architecture, thoughtful user expe
 
 I am a software engineer with **5+ years of experience** designing and developing web applications. My work spans frontend engineering, backend systems, databases, product design, and performance optimization.
 
-- Currently working as a **Software Engineer at [NDS9](https://nds9.co)**
-- Founder of **[aihrbd](https://aihrbd.com)**
+- Working as a **Software Engineer at [NDS9](https://nds9.co)** since **March 2022**
+- **Developer and Founder** of **[Aihrbd](https://aihrbd.com)** since **2024**
 - Open to freelance projects, product collaborations, and meaningful technical challenges
+
+## Experience
+
+<table width="100%">
+	<tr>
+		<th align="left" width="28%">Organization</th>
+		<th align="left" width="32%">Role</th>
+		<th align="left" width="40%">Period</th>
+	</tr>
+	<tr>
+		<td><a href="https://nds9.co"><strong>NDS9</strong></a></td>
+		<td>Software Engineer</td>
+		<td>March 2022 - Present</td>
+	</tr>
+	<tr>
+		<td><a href="https://aihrbd.com"><strong>Aihrbd</strong></a></td>
+		<td>Developer and Founder</td>
+		<td>2024 - Present</td>
+	</tr>
+</table>
 
 ## What I Do
 
