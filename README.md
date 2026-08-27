@@ -114,27 +114,27 @@ I am a software engineer with **5+ years of experience** designing and developin
 	<tr>
 		<td align="center" width="25%">
 			<a href="https://github.com/sarif-mia/">
-				<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+				<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="150" height="36" />
 			</a><br />
-			<sub>Code and projects</sub>
+			<sub>Code</sub>
 		</td>
 		<td align="center" width="25%">
 			<a href="https://www.linkedin.com/in/sarif-mia/">
-				<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+				<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="36" />
 			</a><br />
-			<sub>Professional network</sub>
+			<sub>Network</sub>
 		</td>
 		<td align="center" width="25%">
 			<a href="https://www.facebook.com/mohammad.sarifmiia">
-				<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+				<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" width="150" height="36" />
 			</a><br />
-			<sub>Social updates</sub>
+			<sub>Social</sub>
 		</td>
 		<td align="center" width="25%">
 			<a href="mailto:sarifmia.ofc@gmail.com">
-				<img src="https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+				<img src="https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="150" height="36" />
 			</a><br />
-			<sub>Let's work together</sub>
+			<sub>Contact</sub>
 		</td>
 	</tr>
 </table>
