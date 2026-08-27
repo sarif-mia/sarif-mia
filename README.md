@@ -115,6 +115,16 @@ I am a software engineer with **5+ years of experience** designing and developin
 		<td>Responsive portfolio with high-performance animations</td>
 		<td>Next.js, TypeScript, Tailwind CSS, Framer Motion</td>
 	</tr>
+	<tr>
+		<td><a href="https://insights-work.vercel.app"><strong>Insights Work</strong></a></td>
+		<td>Live project developed and deployed by me</td>
+		<td><a href="https://insights-work.vercel.app">Live demo</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://fabriq-erp.vercel.app"><strong>Fabriq ERP</strong></a></td>
+		<td>ERP project developed and deployed by me</td>
+		<td><a href="https://fabriq-erp.vercel.app">Live demo</a></td>
+	</tr>
 </table>
 
 ## Websites I Have Worked On
