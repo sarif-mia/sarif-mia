@@ -110,11 +110,31 @@ I am a software engineer with **5+ years of experience** designing and developin
 
 ## Connect
 
-<div align="center">
-
-<a href="https://github.com/sarif-mia/">GitHub</a> &nbsp; | &nbsp;
-<a href="https://www.linkedin.com/in/sarif-mia/">LinkedIn</a> &nbsp; | &nbsp;
-<a href="https://www.facebook.com/mohammad.sarifmiia">Facebook</a> &nbsp; | &nbsp;
-<a href="mailto:sarifmia.ofc@gmail.com">Email</a>
-
-</div>
+<table width="100%">
+	<tr>
+		<td align="center" width="25%">
+			<a href="https://github.com/sarif-mia/">
+				<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+			</a><br />
+			<sub>Code and projects</sub>
+		</td>
+		<td align="center" width="25%">
+			<a href="https://www.linkedin.com/in/sarif-mia/">
+				<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+			</a><br />
+			<sub>Professional network</sub>
+		</td>
+		<td align="center" width="25%">
+			<a href="https://www.facebook.com/mohammad.sarifmiia">
+				<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+			</a><br />
+			<sub>Social updates</sub>
+		</td>
+		<td align="center" width="25%">
+			<a href="mailto:sarifmia.ofc@gmail.com">
+				<img src="https://img.shields.io/badge/Email-D97706?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+			</a><br />
+			<sub>Let's work together</sub>
+		</td>
+	</tr>
+</table>
