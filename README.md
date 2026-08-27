@@ -1,81 +1,59 @@
-# 👋 Hi, I'm Sarif Mia
+# Sarif Mia
 
-**Full Stack Web Developer & UI/UX Designer**  
-Building scalable, high-performance web applications with a strong focus on user experience and clean architecture.
+**Founder of [Aihrbd](https://aihrbd.com) | Full-Stack Web Developer and UI/UX Designer**
 
----
+I build scalable, high-performance web applications with a focus on thoughtful user experiences, maintainable architecture, and clean code.
 
-## 📌 Professional Summary
+## About Me
 
-| Category | Details |
-|----------|--------|
-| **Role** | Full Stack Developer & UI/UX Designer |
-| **Experience** | 3+ Years |
-| **Specialization** | Web Applications, UI/UX Design, SEO Optimization |
-| **Focus** | Performance, Scalability, Clean Code |
-| **Availability** | Open for freelance & collaboration |
+- **Experience:** 3+ years
+- **Specialties:** Web applications, UI/UX design, and SEO optimization
+- **Focus:** Performance, scalability, and maintainability
+- **Availability:** Open to freelance work and collaboration
 
----
+## Software
 
-## 🌐 Contact & Profiles
+### [Aihrbd](https://aihrbd.com)
 
-| Platform | Link |
-|----------|------|
-| **GitHub** | https://github.com/sarif-mia/ |
-| **LinkedIn** | https://www.linkedin.com/in/sarif-mia/ |
-| **Facebook** | https://www.facebook.com/mohammad.sarifmiia |
-| **Email** | sarifmia.ofc@gmail.com |
+I am the founder of Aihrbd, a software platform focused on building practical digital solutions for modern businesses.
 
----
+## Technical Stack
 
-## 🧠 Core Expertise
+| Area | Technologies and Tools |
+| :--- | :--- |
+| **Frontend** | React, Next.js, JavaScript, Tailwind CSS |
+| **Backend** | Django, Python, Node.js |
+| **Databases** | PostgreSQL, MongoDB, Redis |
+| **Mobile** | React Native |
+| **Design** | Figma, Adobe Photoshop, Adobe Illustrator |
+| **Marketing** | SEO, Google Ads, Facebook Ads |
+| **Engineering Practices** | Performance optimization, API integration, system design |
 
-| Area | Skills |
-|------|-------|
-| **Frontend Development** | React, Next.js, JavaScript, Tailwind CSS |
-| **Backend Development** | Django, Python, Node.js |
-| **Database Systems** | PostgreSQL, MongoDB, Redis |
-| **UI/UX Design** | Figma, Adobe Photoshop, Illustrator |
-| **Digital Marketing** | SEO, Google Ads, Facebook Ads |
-| **Other Skills** | Performance Optimization, API Integration, System Design |
+## Featured Projects
 
----
+| Project | Description | Technology Stack |
+| :--- | :--- | :--- |
+| **E-Commerce Platform** | Full-featured commerce system with real-time inventory management | Django, React, PostgreSQL, Redis |
+| **Task Management App** | Collaboration and productivity tracking application for teams | React Native, Node.js, MongoDB |
+| **Modern Portfolio** | High-performance portfolio with animation and responsive design | Next.js, TypeScript, Tailwind CSS, Framer Motion |
 
-## 🛠️ Technical Stack
-
-| Layer | Technologies |
-|------|-------------|
-| **Frontend** | React • Next.js • JavaScript • Tailwind CSS |
-| **Backend** | Django • Python • Node.js |
-| **Database** | PostgreSQL • MongoDB • Redis |
-| **Design Tools** | Figma • Adobe Suite |
-| **Marketing Tools** | SEO • Google Ads • Facebook Ads |
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|------------|-------|
-| **E-Commerce Platform** | Full-featured system with real-time inventory management | Django • React • PostgreSQL • Redis |
-| **Task Management App** | Team collaboration and productivity tracking app | React Native • Node.js • MongoDB |
-| **Modern Portfolio** | High-performance portfolio with animations | Next.js • TypeScript • Tailwind • Framer Motion |
-
----
-
-## 🏆 Professional Highlights
+## Professional Highlights
 
 | Metric | Value |
-|-------|------|
-| **Projects Completed** | 50+ |
-| **Clients Served** | 100+ |
-| **Experience** | 3+ Years |
-| **Support** | Fast & Reliable |
+| :--- | :--- |
+| **Projects completed** | 50+ |
+| **Clients served** | 100+ |
+| **Professional experience** | 3+ years |
+| **Software founded** | [Aihrbd](https://aihrbd.com) |
+| **Support** | Fast and reliable |
 
----
+## Connect With Me
 
-## 💡 Personal Note
+| Platform | Link |
+| :--- | :--- |
+| **GitHub** | [sarif-mia](https://github.com/sarif-mia/) |
+| **LinkedIn** | [sarif-mia](https://www.linkedin.com/in/sarif-mia/) |
+| **Facebook** | [mohammad.sarifmiia](https://www.facebook.com/mohammad.sarifmiia) |
+| **Email** | [sarifmia.ofc@gmail.com](mailto:sarifmia.ofc@gmail.com) |
 
-> *"The best way to predict the future is to create it."* — Peter Drucker
-
----
+> “The best way to predict the future is to create it.” — Peter Drucker
