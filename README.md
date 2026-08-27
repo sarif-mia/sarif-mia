@@ -1,8 +1,12 @@
+<div align="center">
+
 # Sarif Mia
 
 **Software Engineer at [NDS9](https://nds9.co) | Founder of [Aihrbd](https://aihrbd.com)**
 
-I build scalable, high-performance web applications with a focus on thoughtful user experiences, maintainable architecture, and clean code.
+I build scalable, high-performance web applications with a focus on user experience, maintainable architecture, and clean code.
+
+</div>
 
 ## About Me
 
@@ -20,7 +24,7 @@ I am the founder of Aihrbd, a software platform focused on building practical di
 
 ## Technical Stack
 
-| Area | Technologies and Tools |
+| Area | Technologies |
 | :--- | :--- |
 | **Frontend** | React, Next.js, JavaScript, Tailwind CSS |
 | **Backend** | Django, Python, Node.js |
@@ -28,15 +32,15 @@ I am the founder of Aihrbd, a software platform focused on building practical di
 | **Mobile** | React Native |
 | **Design** | Figma, Adobe Photoshop, Adobe Illustrator |
 | **Marketing** | SEO, Google Ads, Facebook Ads |
-| **Engineering Practices** | Performance optimization, API integration, system design |
+| **Practices** | Performance optimization, API integration, system design |
 
 ## Featured Projects
 
-| Project | Description | Technology Stack |
+| Project | Description | Stack |
 | :--- | :--- | :--- |
-| **E-Commerce Platform** | Full-featured commerce system with real-time inventory management | Django, React, PostgreSQL, Redis |
-| **Task Management App** | Collaboration and productivity tracking application for teams | React Native, Node.js, MongoDB |
-| **Modern Portfolio** | High-performance portfolio with animation and responsive design | Next.js, TypeScript, Tailwind CSS, Framer Motion |
+| **E-Commerce Platform** | Commerce platform with real-time inventory | Django, React, PostgreSQL, Redis |
+| **Task Management App** | Team collaboration and productivity tracking | React Native, Node.js, MongoDB |
+| **Modern Portfolio** | Responsive portfolio with high-performance animations | Next.js, TypeScript, Tailwind CSS, Framer Motion |
 
 ## Professional Highlights
 
