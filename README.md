@@ -63,15 +63,6 @@ Building scalable, high-performance web applications with a strong focus on user
 
 ---
 
-## 📊 GitHub Statistics
-
-| Stats | Preview |
-|------|--------|
-| **Overall Stats** | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarif-mia&show_icons=true&theme=tokyonight&hide_border=true) |
-| **Top Languages** | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarif-mia&layout=compact&theme=tokyonight&hide_border=true) |
-
----
-
 ## 🏆 Professional Highlights
 
 | Metric | Value |
