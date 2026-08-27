@@ -1,12 +1,13 @@
 # Sarif Mia
 
-**Founder of [Aihrbd](https://aihrbd.com) | Full-Stack Web Developer and UI/UX Designer**
+**Software Engineer at [NDS9](https://nds9.co) | Founder of [Aihrbd](https://aihrbd.com)**
 
 I build scalable, high-performance web applications with a focus on thoughtful user experiences, maintainable architecture, and clean code.
 
 ## About Me
 
-- **Experience:** 3+ years
+- **Experience:** 5+ years
+- **Current role:** Software Engineer at [NDS9](https://nds9.co)
 - **Specialties:** Web applications, UI/UX design, and SEO optimization
 - **Focus:** Performance, scalability, and maintainability
 - **Availability:** Open to freelance work and collaboration
@@ -43,7 +44,8 @@ I am the founder of Aihrbd, a software platform focused on building practical di
 | :--- | :--- |
 | **Projects completed** | 50+ |
 | **Clients served** | 100+ |
-| **Professional experience** | 3+ years |
+| **Professional experience** | 5+ years |
+| **Current workplace** | [NDS9](https://nds9.co) |
 | **Software founded** | [Aihrbd](https://aihrbd.com) |
 | **Support** | Fast and reliable |
 
