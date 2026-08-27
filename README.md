@@ -133,10 +133,10 @@ I am a software engineer with **5+ years of experience** designing and developin
 
 <table width="100%">
 	<tr>
-		<td align="left" width="25%"><strong>5+ years</strong><br />Experience</td>
-		<td align="left" width="25%"><strong>50+</strong><br />Projects completed</td>
-		<td align="left" width="25%"><strong>100+</strong><br />Clients served</td>
-		<td align="left" width="25%"><strong>1</strong><br />Software founded</td>
+		<td align="left" width="25%"><strong><big>5+</big></strong><br />Experience</td>
+		<td align="left" width="25%"><strong><big>50+</big></strong><br />Projects&nbsp;completed</td>
+		<td align="left" width="25%"><strong><big>100+</big></strong><br />Clients&nbsp;served</td>
+		<td align="left" width="25%"><strong><big>1</big></strong><br />Software&nbsp;founded</td>
 	</tr>
 </table>
 
