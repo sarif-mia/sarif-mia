@@ -125,6 +125,16 @@ I am a software engineer with **5+ years of experience** designing and developin
 		<td>ERP project developed and deployed by me</td>
 		<td>React, TypeScript, PostgreSQL, Supabase</td>
 	</tr>
+	<tr>
+		<td><a href="https://islamic-diary.vercel.app"><strong>Islamic Diary</strong></a></td>
+		<td>Live web project developed and deployed by me</td>
+		<td>Web application</td>
+	</tr>
+	<tr>
+		<td><a href="https://bd-income-tax-calculator.vercel.app"><strong>BD Income Tax Calculator</strong></a></td>
+		<td>Bangladesh income tax calculation project</td>
+		<td>Web application</td>
+	</tr>
 </table>
 
 ## Websites I Have Worked On
