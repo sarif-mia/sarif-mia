@@ -121,11 +121,11 @@ I am a software engineer with **5+ years of experience** designing and developin
 
 <table width="100%">
 	<tr>
-		<td align="left" width="20%"><a href="https://lovegen.com" style="text-decoration: none;"><strong>lovegen.com</strong></a></td>
-		<td align="left" width="20%"><a href="https://dunamiss.in" style="text-decoration: none;"><strong>dunamiss.in</strong></a></td>
-		<td align="left" width="20%"><a href="https://lvgn.com" style="text-decoration: none;"><strong>lvgn.com</strong></a></td>
-		<td align="left" width="20%"><a href="https://dunacare.in" style="text-decoration: none;"><strong>dunacare.in</strong></a></td>
-		<td align="left" width="20%"><a href="https://nds9.co" style="text-decoration: none;"><strong>nds9.co</strong></a></td>
+		<td align="left" width="20%"><a href="https://lovegen.com" style="text-decoration: none;">&#128279;&nbsp;<strong>lovegen.com</strong></a></td>
+		<td align="left" width="20%"><a href="https://dunamiss.in" style="text-decoration: none;">&#128279;&nbsp;<strong>dunamiss.in</strong></a></td>
+		<td align="left" width="20%"><a href="https://lvgn.com" style="text-decoration: none;">&#128279;&nbsp;<strong>lvgn.com</strong></a></td>
+		<td align="left" width="20%"><a href="https://dunacare.in" style="text-decoration: none;">&#128279;&nbsp;<strong>dunacare.in</strong></a></td>
+		<td align="left" width="20%"><a href="https://nds9.co" style="text-decoration: none;">&#128279;&nbsp;<strong>nds9.co</strong></a></td>
 	</tr>
 </table>
 
