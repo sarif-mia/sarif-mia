@@ -23,8 +23,8 @@ Building scalable, high-performance web applications with a strong focus on user
 |----------|------|
 | **GitHub** | https://github.com/sarif-mia/ |
 | **LinkedIn** | https://www.linkedin.com/in/sarif-mia/ |
-| **Facebook** | https://www.facebook.com/sarifmiia |
-| **Email** | your-email@example.com |
+| **Facebook** | https://www.facebook.com/mohammad.sarifmiia |
+| **Email** | sarifmia.ofc@gmail.com |
 
 ---
 
@@ -71,16 +71,6 @@ Building scalable, high-performance web applications with a strong focus on user
 | **Clients Served** | 100+ |
 | **Experience** | 3+ Years |
 | **Support** | Fast & Reliable |
-
----
-
-## 📈 Profile Metrics
-
-| Metric | Value |
-|-------|------|
-| **Followers** | ![Followers](https://img.shields.io/github/followers/sarif-mia?style=social) |
-| **Stars** | ![Stars](https://img.shields.io/github/stars/sarif-mia?style=social) |
-| **Profile Views** | ![Views](https://komarev.com/ghpvc/?username=sarif-mia&color=brightgreen) |
 
 ---
 
