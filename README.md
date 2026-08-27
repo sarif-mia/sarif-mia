@@ -1,8 +1,8 @@
-<div align="left">
-
 # Sarif Mia
 
-### Software Engineer | Full-Stack Developer | UI/UX Designer
+<div align="left">
+
+Software Engineer | Full-Stack Developer | UI/UX Designer
 
 Building scalable digital products with clean architecture, thoughtful user experiences, and reliable performance.
 
