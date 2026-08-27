@@ -17,7 +17,7 @@ Building scalable digital products with clean architecture, thoughtful user expe
 I am a software engineer with **5+ years of experience** designing and developing web applications. My work spans frontend engineering, backend systems, databases, product design, and performance optimization.
 
 - Currently working as a **Software Engineer at [NDS9](https://nds9.co)**
-- Founder of **[Aihrbd](https://aihrbd.com)**
+- Founder of **[aihrbd](https://aihrbd.com)**
 - Open to freelance projects, product collaborations, and meaningful technical challenges
 
 ## What I Do
