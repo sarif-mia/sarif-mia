@@ -31,7 +31,7 @@ I am a software engineer with **5+ years of experience** designing and developin
 	<tr>
 		<td><a href="https://nds9.co" style="text-decoration: none;"><strong>NDS9</strong></a></td>
 		<td>Software Engineer</td>
-		<td>March 2022 - Present</td>
+		<td>March 2022 - Present · 5+ years</td>
 	</tr>
 	<tr>
 		<td><a href="https://aihrbd.com" style="text-decoration: none;"><strong>Aihrbd</strong></a></td>
@@ -143,10 +143,9 @@ I am a software engineer with **5+ years of experience** designing and developin
 
 <table width="100%">
 	<tr>
-		<td align="left" width="25%"><h1>5+</h1>Experience</td>
-		<td align="left" width="25%"><h1>50+</h1>Projects&nbsp;completed</td>
-		<td align="left" width="25%"><h1>100+</h1>Clients&nbsp;served</td>
-		<td align="left" width="25%"><h1>1</h1>Software&nbsp;founded</td>
+		<td align="left" width="33%"><h1>50+</h1>Projects&nbsp;completed</td>
+		<td align="left" width="33%"><h1>100+</h1>Clients&nbsp;served</td>
+		<td align="left" width="33%"><h1>1</h1>Software&nbsp;founded</td>
 	</tr>
 </table>
 
