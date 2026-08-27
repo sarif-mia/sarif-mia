@@ -2,102 +2,119 @@
 
 # Sarif Mia
 
-**Software Engineer at [NDS9](https://nds9.co) | Founder of [Aihrbd](https://aihrbd.com)**
+### Software Engineer | Full-Stack Developer | UI/UX Designer
 
-I build scalable, high-performance web applications with a focus on user experience, maintainable architecture, and clean code.
+Building scalable digital products with clean architecture, thoughtful user experiences, and reliable performance.
+
+<a href="https://nds9.co"><img src="https://img.shields.io/badge/Software%20Engineer-NDS9-111827?style=for-the-badge" alt="Software Engineer at NDS9"></a>
+<a href="https://aihrbd.com"><img src="https://img.shields.io/badge/Founder-Aihrbd-0f766e?style=for-the-badge" alt="Founder of Aihrbd"></a>
+<a href="mailto:sarifmia.ofc@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-d97706?style=for-the-badge" alt="Email Sarif Mia"></a>
 
 </div>
 
 ## About Me
 
-- **Experience:** 5+ years
-- **Current role:** Software Engineer at [NDS9](https://nds9.co)
-- **Specialties:** Web applications, UI/UX design, and SEO optimization
-- **Focus:** Performance, scalability, and maintainability
-- **Availability:** Open to freelance work and collaboration
+I am a software engineer with **5+ years of experience** designing and developing web applications. My work spans frontend engineering, backend systems, databases, product design, and performance optimization.
 
-## Software
+- Currently working as a **Software Engineer at [NDS9](https://nds9.co)**
+- Founder of **[Aihrbd](https://aihrbd.com)**
+- Open to freelance projects, product collaborations, and meaningful technical challenges
 
-### [Aihrbd](https://aihrbd.com)
+## What I Do
 
-I am the founder of Aihrbd, a software platform focused on building practical digital solutions for modern businesses.
+<table width="100%">
+	<tr>
+		<td width="33%" valign="top">
+			<strong>Product Engineering</strong><br />
+			Scalable web applications, APIs, integrations, and maintainable software systems.
+		</td>
+		<td width="33%" valign="top">
+			<strong>Experience Design</strong><br />
+			Clear, accessible interfaces that connect product goals with real user needs.
+		</td>
+		<td width="33%" valign="top">
+			<strong>Growth and Quality</strong><br />
+			Performance optimization, SEO, and practical improvements that support growth.
+		</td>
+	</tr>
+</table>
 
 ## Technical Stack
 
-| Area | Technologies |
-| :--- | :--- |
-| **Frontend** | React, Next.js, JavaScript, Tailwind CSS |
-| **Backend** | Django, Python, Node.js |
-| **Databases** | PostgreSQL, MongoDB, Redis |
-| **Mobile** | React Native |
-| **Design** | Figma, Adobe Photoshop, Adobe Illustrator |
-| **Marketing** | SEO, Google Ads, Facebook Ads |
-| **Practices** | Performance optimization, API integration, system design |
-
-## Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **E-Commerce Platform** | Commerce platform with real-time inventory | Django, React, PostgreSQL, Redis |
-| **Task Management App** | Team collaboration and productivity tracking | React Native, Node.js, MongoDB |
-| **Modern Portfolio** | Responsive portfolio with high-performance animations | Next.js, TypeScript, Tailwind CSS, Framer Motion |
-
-## Professional Highlights
-
 <table width="100%">
 	<tr>
-		<th align="left" width="60%">Metric</th>
-		<th align="left" width="40%">Value</th>
+		<th align="left" width="22%">Area</th>
+		<th align="left" width="78%">Technologies and Tools</th>
 	</tr>
 	<tr>
-		<td>Projects completed</td>
-		<td><strong>50+</strong></td>
+		<td><strong>Frontend</strong></td>
+		<td>React, Next.js, JavaScript, TypeScript, Tailwind CSS</td>
 	</tr>
 	<tr>
-		<td>Clients served</td>
-		<td><strong>100+</strong></td>
+		<td><strong>Backend</strong></td>
+		<td>Django, Python, Node.js</td>
 	</tr>
 	<tr>
-		<td>Professional experience</td>
-		<td><strong>5+ years</strong></td>
+		<td><strong>Data</strong></td>
+		<td>PostgreSQL, MongoDB, Redis</td>
 	</tr>
 	<tr>
-		<td>Current workplace</td>
-		<td><a href="https://nds9.co">NDS9</a></td>
+		<td><strong>Mobile</strong></td>
+		<td>React Native</td>
 	</tr>
 	<tr>
-		<td>Software founded</td>
-		<td><a href="https://aihrbd.com">Aihrbd</a></td>
+		<td><strong>Design</strong></td>
+		<td>Figma, Adobe Photoshop, Adobe Illustrator</td>
 	</tr>
 	<tr>
-		<td>Support</td>
-		<td>Fast and reliable</td>
+		<td><strong>Practices</strong></td>
+		<td>API integration, system design, performance optimization, SEO</td>
 	</tr>
 </table>
 
-## Connect With Me
+## Selected Work
 
 <table width="100%">
 	<tr>
-		<th align="left" width="30%">Platform</th>
-		<th align="left" width="70%">Link</th>
+		<th align="left" width="24%">Project</th>
+		<th align="left" width="46%">Outcome</th>
+		<th align="left" width="30%">Stack</th>
 	</tr>
 	<tr>
-		<td>GitHub</td>
-		<td><a href="https://github.com/sarif-mia/">github.com/sarif-mia</a></td>
+		<td><strong>E-Commerce Platform</strong></td>
+		<td>Commerce platform with real-time inventory management</td>
+		<td>Django, React, PostgreSQL, Redis</td>
 	</tr>
 	<tr>
-		<td>LinkedIn</td>
-		<td><a href="https://www.linkedin.com/in/sarif-mia/">linkedin.com/in/sarif-mia</a></td>
+		<td><strong>Task Management App</strong></td>
+		<td>Team collaboration and productivity tracking</td>
+		<td>React Native, Node.js, MongoDB</td>
 	</tr>
 	<tr>
-		<td>Facebook</td>
-		<td><a href="https://www.facebook.com/mohammad.sarifmiia">facebook.com/mohammad.sarifmiia</a></td>
-	</tr>
-	<tr>
-		<td>Email</td>
-		<td><a href="mailto:sarifmia.ofc@gmail.com">sarifmia.ofc@gmail.com</a></td>
+		<td><strong>Modern Portfolio</strong></td>
+		<td>Responsive portfolio with high-performance animations</td>
+		<td>Next.js, TypeScript, Tailwind CSS, Framer Motion</td>
 	</tr>
 </table>
 
-> “The best way to predict the future is to create it.” — Peter Drucker
+## At a Glance
+
+<table width="100%">
+	<tr>
+		<td align="center" width="25%"><strong>5+ years</strong><br />Experience</td>
+		<td align="center" width="25%"><strong>50+</strong><br />Projects completed</td>
+		<td align="center" width="25%"><strong>100+</strong><br />Clients served</td>
+		<td align="center" width="25%"><strong>1</strong><br />Software founded</td>
+	</tr>
+</table>
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/sarif-mia/">GitHub</a> &nbsp; | &nbsp;
+<a href="https://www.linkedin.com/in/sarif-mia/">LinkedIn</a> &nbsp; | &nbsp;
+<a href="https://www.facebook.com/mohammad.sarifmiia">Facebook</a> &nbsp; | &nbsp;
+<a href="mailto:sarifmia.ofc@gmail.com">Email</a>
+
+</div>
