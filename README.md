@@ -44,22 +44,60 @@ I am the founder of Aihrbd, a software platform focused on building practical di
 
 ## Professional Highlights
 
-| Metric | Value |
-| :--- | :--- |
-| **Projects completed** | 50+ |
-| **Clients served** | 100+ |
-| **Professional experience** | 5+ years |
-| **Current workplace** | [NDS9](https://nds9.co) |
-| **Software founded** | [Aihrbd](https://aihrbd.com) |
-| **Support** | Fast and reliable |
+<table width="100%">
+	<tr>
+		<th align="left" width="60%">Metric</th>
+		<th align="left" width="40%">Value</th>
+	</tr>
+	<tr>
+		<td>Projects completed</td>
+		<td><strong>50+</strong></td>
+	</tr>
+	<tr>
+		<td>Clients served</td>
+		<td><strong>100+</strong></td>
+	</tr>
+	<tr>
+		<td>Professional experience</td>
+		<td><strong>5+ years</strong></td>
+	</tr>
+	<tr>
+		<td>Current workplace</td>
+		<td><a href="https://nds9.co">NDS9</a></td>
+	</tr>
+	<tr>
+		<td>Software founded</td>
+		<td><a href="https://aihrbd.com">Aihrbd</a></td>
+	</tr>
+	<tr>
+		<td>Support</td>
+		<td>Fast and reliable</td>
+	</tr>
+</table>
 
 ## Connect With Me
 
-| Platform | Link |
-| :--- | :--- |
-| **GitHub** | [sarif-mia](https://github.com/sarif-mia/) |
-| **LinkedIn** | [sarif-mia](https://www.linkedin.com/in/sarif-mia/) |
-| **Facebook** | [mohammad.sarifmiia](https://www.facebook.com/mohammad.sarifmiia) |
-| **Email** | [sarifmia.ofc@gmail.com](mailto:sarifmia.ofc@gmail.com) |
+<table width="100%">
+	<tr>
+		<th align="left" width="30%">Platform</th>
+		<th align="left" width="70%">Link</th>
+	</tr>
+	<tr>
+		<td>GitHub</td>
+		<td><a href="https://github.com/sarif-mia/">github.com/sarif-mia</a></td>
+	</tr>
+	<tr>
+		<td>LinkedIn</td>
+		<td><a href="https://www.linkedin.com/in/sarif-mia/">linkedin.com/in/sarif-mia</a></td>
+	</tr>
+	<tr>
+		<td>Facebook</td>
+		<td><a href="https://www.facebook.com/mohammad.sarifmiia">facebook.com/mohammad.sarifmiia</a></td>
+	</tr>
+	<tr>
+		<td>Email</td>
+		<td><a href="mailto:sarifmia.ofc@gmail.com">sarifmia.ofc@gmail.com</a></td>
+	</tr>
+</table>
 
 > “The best way to predict the future is to create it.” — Peter Drucker
