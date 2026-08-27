@@ -6,9 +6,9 @@ Software Engineer | Full-Stack Developer | UI/UX Designer
 
 Building scalable digital products with clean architecture, thoughtful user experiences, and reliable performance.
 
-<a href="https://nds9.co"><img src="https://img.shields.io/badge/Software%20Engineer-NDS9-111827?style=for-the-badge" alt="Software Engineer at NDS9"></a>
-<a href="https://aihrbd.com"><img src="https://img.shields.io/badge/Developer%20%26%20Founder-Aihrbd-0f766e?style=for-the-badge" alt="Developer and Founder of Aihrbd"></a>
-<a href="mailto:sarifmia.ofc@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-d97706?style=for-the-badge" alt="Email Sarif Mia"></a>
+<a href="https://nds9.co" style="text-decoration: none;"><img src="https://img.shields.io/badge/Software%20Engineer-NDS9-111827?style=for-the-badge" alt="Software Engineer at NDS9"></a>
+<a href="https://aihrbd.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Developer%20%26%20Founder-Aihrbd-0f766e?style=for-the-badge" alt="Developer and Founder of Aihrbd"></a>
+<a href="mailto:sarifmia.ofc@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Contact-Email-d97706?style=for-the-badge" alt="Email Sarif Mia"></a>
 
 </div>
 
@@ -29,12 +29,12 @@ I am a software engineer with **5+ years of experience** designing and developin
 		<th align="left" width="40%">Period</th>
 	</tr>
 	<tr>
-		<td><a href="https://nds9.co"><strong>NDS9</strong></a></td>
+		<td><a href="https://nds9.co" style="text-decoration: none;"><strong>NDS9</strong></a></td>
 		<td>Software Engineer</td>
 		<td>March 2022 - Present</td>
 	</tr>
 	<tr>
-		<td><a href="https://aihrbd.com"><strong>Aihrbd</strong></a></td>
+		<td><a href="https://aihrbd.com" style="text-decoration: none;"><strong>Aihrbd</strong></a></td>
 		<td>Developer and Founder</td>
 		<td>2024 - Present</td>
 	</tr>
@@ -121,11 +121,11 @@ I am a software engineer with **5+ years of experience** designing and developin
 
 <table width="100%">
 	<tr>
-		<td align="left" width="20%"><a href="https://lovegen.com"><strong>lovegen.com</strong></a></td>
-		<td align="left" width="20%"><a href="https://dunamiss.in"><strong>dunamiss.in</strong></a></td>
-		<td align="left" width="20%"><a href="https://lvgn.com"><strong>lvgn.com</strong></a></td>
-		<td align="left" width="20%"><a href="https://dunacare.in"><strong>dunacare.in</strong></a></td>
-		<td align="left" width="20%"><a href="https://nds9.co"><strong>nds9.co</strong></a></td>
+		<td align="left" width="20%"><a href="https://lovegen.com" style="text-decoration: none;"><strong>lovegen.com</strong></a></td>
+		<td align="left" width="20%"><a href="https://dunamiss.in" style="text-decoration: none;"><strong>dunamiss.in</strong></a></td>
+		<td align="left" width="20%"><a href="https://lvgn.com" style="text-decoration: none;"><strong>lvgn.com</strong></a></td>
+		<td align="left" width="20%"><a href="https://dunacare.in" style="text-decoration: none;"><strong>dunacare.in</strong></a></td>
+		<td align="left" width="20%"><a href="https://nds9.co" style="text-decoration: none;"><strong>nds9.co</strong></a></td>
 	</tr>
 </table>
 
@@ -144,19 +144,19 @@ I am a software engineer with **5+ years of experience** designing and developin
 
 <div align="left">
 
-<a href="https://github.com/sarif-mia/" title="GitHub">
+<a href="https://github.com/sarif-mia/" title="GitHub" style="text-decoration: none;">
 	<img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="32" height="32" style="border-radius: 50%;" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sarif-mia/" title="LinkedIn">
+<a href="https://www.linkedin.com/in/sarif-mia/" title="LinkedIn" style="text-decoration: none;">
 	<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="border-radius: 50%;" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.facebook.com/mohammad.sarifmiia" title="Facebook">
+<a href="https://www.facebook.com/mohammad.sarifmiia" title="Facebook" style="text-decoration: none;">
 	<img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="32" height="32" style="border-radius: 50%;" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:sarifmia.ofc@gmail.com" title="Email">
+<a href="mailto:sarifmia.ofc@gmail.com" title="Email" style="text-decoration: none;">
 	<img src="https://cdn.simpleicons.org/gmail/D97706" alt="Email" width="32" height="32" style="border-radius: 50%;" />
 </a>
 
