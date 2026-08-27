@@ -117,7 +117,7 @@ I am a software engineer with **5+ years of experience** designing and developin
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sarif-mia/" title="LinkedIn">
-	<img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="42" height="42" style="border-radius: 50%;" />
+	<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" width="42" height="42" style="border-radius: 50%;" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/mohammad.sarifmiia" title="Facebook">
