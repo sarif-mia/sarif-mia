@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Sarif Mia
 
@@ -101,31 +101,31 @@ I am a software engineer with **5+ years of experience** designing and developin
 
 <table width="100%">
 	<tr>
-		<td align="center" width="25%"><strong>5+ years</strong><br />Experience</td>
-		<td align="center" width="25%"><strong>50+</strong><br />Projects completed</td>
-		<td align="center" width="25%"><strong>100+</strong><br />Clients served</td>
-		<td align="center" width="25%"><strong>1</strong><br />Software founded</td>
+		<td align="left" width="25%"><strong>5+ years</strong><br />Experience</td>
+		<td align="left" width="25%"><strong>50+</strong><br />Projects completed</td>
+		<td align="left" width="25%"><strong>100+</strong><br />Clients served</td>
+		<td align="left" width="25%"><strong>1</strong><br />Software founded</td>
 	</tr>
 </table>
 
 ## Connect
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/sarif-mia/" title="GitHub">
-	<img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="42" height="42" style="border-radius: 50%;" />
+	<img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="32" height="32" style="border-radius: 50%;" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sarif-mia/" title="LinkedIn">
-	<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" width="42" height="42" style="border-radius: 50%;" />
+	<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" width="32" height="32" style="border-radius: 50%;" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.facebook.com/mohammad.sarifmiia" title="Facebook">
-	<img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="42" height="42" style="border-radius: 50%;" />
+	<img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="32" height="32" style="border-radius: 50%;" />
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:sarifmia.ofc@gmail.com" title="Email">
-	<img src="https://cdn.simpleicons.org/gmail/D97706" alt="Email" width="42" height="42" style="border-radius: 50%;" />
+	<img src="https://cdn.simpleicons.org/gmail/D97706" alt="Email" width="32" height="32" style="border-radius: 50%;" />
 </a>
 
 </div>
