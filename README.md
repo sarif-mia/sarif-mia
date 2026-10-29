@@ -2,22 +2,22 @@
 
 <div align="left">
 
-Software Engineer | Full-Stack Developer | UI/UX Designer
+Full-Stack Software Engineer | Product Builder | UI/UX Designer
 
-Building scalable digital products with clean architecture, thoughtful user experiences, and reliable performance.
+I build production-ready web products that combine reliable engineering, thoughtful user experience, and measurable business value.
 
 <a href="https://nds9.co" style="text-decoration: none;"><img src="https://img.shields.io/badge/Software%20Engineer-NDS9-111827?style=for-the-badge" alt="Software Engineer at NDS9"></a>
-<a href="https://aihrbd.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Developer%20%26%20Founder-Aihrbd-0f766e?style=for-the-badge" alt="Developer and Founder of Aihrbd"></a>
+<a href="https://aihrbd.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Founder%20%26%20Developer-Aihrbd-0f766e?style=for-the-badge" alt="Founder and Developer of Aihrbd"></a>
 <a href="mailto:sarifmia.ofc@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Contact-Email-d97706?style=for-the-badge" alt="Email Sarif Mia"></a>
 
 </div>
 
 ## About Me
 
-I am a software engineer with **5+ years of experience** designing and developing web applications. My work spans frontend engineering, backend systems, databases, product design, and performance optimization.
+I am a software engineer with **5+ years of experience** designing, building, and shipping web applications. I work across frontend engineering, backend systems, databases, product design, and performance optimization—from early product decisions to production deployment.
 
 - Working as a **Software Engineer at [NDS9](https://nds9.co)** since **March 2022**
-- **Developer and Founder** of **[Aihrbd](https://aihrbd.com)** since **2024**
+- **Founder and Developer** of **[Aihrbd](https://aihrbd.com)** since **2024**
 - Open to freelance projects, product collaborations, and meaningful technical challenges
 
 ## Experience
@@ -35,7 +35,7 @@ I am a software engineer with **5+ years of experience** designing and developin
 	</tr>
 	<tr>
 		<td><a href="https://aihrbd.com" style="text-decoration: none;"><strong>Aihrbd</strong></a></td>
-		<td>Developer and Founder</td>
+		<td>Founder and Developer</td>
 		<td>2024 - Present</td>
 	</tr>
 </table>
@@ -92,50 +92,37 @@ I am a software engineer with **5+ years of experience** designing and developin
 	</tr>
 </table>
 
-## Selected Work
+## Featured Products
 
 <table width="100%">
 	<tr>
-		<th align="left" width="24%">Project</th>
-		<th align="left" width="46%">Outcome</th>
-		<th align="left" width="30%">Stack</th>
+		<th align="left" width="24%">Product</th>
+		<th align="left" width="46%">What it delivers</th>
+		<th align="left" width="30%">Technology</th>
 	</tr>
 	<tr>
-		<td><strong>E-Commerce Platform</strong></td>
-		<td>Commerce platform with real-time inventory management</td>
-		<td>Django, React, PostgreSQL, Redis</td>
-	</tr>
-	<tr>
-		<td><strong>Task Management App</strong></td>
-		<td>Team collaboration and productivity tracking</td>
-		<td>React Native, Node.js, MongoDB</td>
-	</tr>
-	<tr>
-		<td><strong>Modern Portfolio</strong></td>
-		<td>Responsive portfolio with high-performance animations</td>
-		<td>Next.js, TypeScript, Tailwind CSS, Framer Motion</td>
-	</tr>
-	<tr>
-		<td><a href="https://insights-work.vercel.app"><strong>Insights Work</strong></a></td>
-		<td>Live project developed and deployed by me</td>
+		<td><a href="https://insights-work.vercel.app"><strong>Insights Work ↗</strong></a></td>
+		<td>Turns operational data into clear, actionable insights</td>
 		<td>React, TypeScript, PostgreSQL, Supabase</td>
 	</tr>
 	<tr>
-		<td><a href="https://fabriq-erp.vercel.app"><strong>Fabriq ERP</strong></a></td>
-		<td>ERP project developed and deployed by me</td>
+		<td><a href="https://fabriq-erp.vercel.app"><strong>Fabriq ERP ↗</strong></a></td>
+		<td>Business operations and resource planning in one workspace</td>
 		<td>React, TypeScript, PostgreSQL, Supabase</td>
 	</tr>
 	<tr>
-		<td><a href="https://islamic-diary.vercel.app"><strong>Islamic Diary</strong></a></td>
-		<td>Live web project developed and deployed by me</td>
-		<td>Web application</td>
+		<td><a href="https://islamic-diary.vercel.app"><strong>Islamic Diary ↗</strong></a></td>
+		<td>A focused digital companion for personal reflection and daily practice</td>
+		<td>Responsive web application</td>
 	</tr>
 	<tr>
-		<td><a href="https://bd-income-tax-calculator.vercel.app"><strong>BD Income Tax Calculator</strong></a></td>
-		<td>Bangladesh income tax calculation project</td>
-		<td>Web application</td>
+		<td><a href="https://bd-income-tax-calculator.vercel.app"><strong>BD Income Tax Calculator ↗</strong></a></td>
+		<td>Helps users estimate Bangladesh income tax through a simple workflow</td>
+		<td>Responsive web application</td>
 	</tr>
 </table>
+
+> Each featured product is live—open a project to explore the experience directly.
 
 ## Websites I Have Worked On
 
