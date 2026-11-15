@@ -83,6 +83,10 @@ I am a software engineer with **5+ years of experience** designing, building, an
 		<td>React Native</td>
 	</tr>
 	<tr>
+		<td><strong>AI</strong></td>
+		<td>MCP servers, LLM tool integration</td>
+	</tr>
+	<tr>
 		<td><strong>Design</strong></td>
 		<td>Figma, Adobe Photoshop, Adobe Illustrator</td>
 	</tr>
@@ -123,6 +127,43 @@ I am a software engineer with **5+ years of experience** designing, building, an
 </table>
 
 > Each featured product is live—open a project to explore the experience directly.
+
+## Open Source
+
+Python packages on PyPI, focused on tools for Bangladesh. All MIT-licensed, tested, and free to use.
+
+<table width="100%">
+	<tr>
+		<th align="left" width="26%">Package</th>
+		<th align="left" width="50%">What it does</th>
+		<th align="left" width="24%">Install</th>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/sarif-mia/bangladesh-mcp"><strong>bangladesh-mcp</strong></a><br /><a href="https://pypi.org/project/bangladesh-mcp/"><img src="https://img.shields.io/pypi/v/bangladesh-mcp?label=PyPI&style=flat-square" alt="PyPI" /></a></td>
+		<td>MCP server that gives AI assistants (Claude, Cursor, VS Code) Bangladesh tools: income tax, taka in words, mobile number checks, EMI and savings</td>
+		<td><code>uvx bangladesh-mcp</code></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/sarif-mia/bd-income-tax"><strong>bd-income-tax</strong></a><br /><a href="https://pypi.org/project/bd-income-tax/"><img src="https://img.shields.io/pypi/v/bd-income-tax?label=PyPI&style=flat-square" alt="PyPI" /></a></td>
+		<td>Bangladesh individual income tax: NBR bands, taxpayer categories, investment rebate, minimum tax, Bangla output and a CLI</td>
+		<td><code>pip install bd-income-tax</code></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/sarif-mia/bdkit"><strong>bdkit</strong></a><br /><a href="https://pypi.org/project/bdkit/"><img src="https://img.shields.io/pypi/v/bdkit?label=PyPI&style=flat-square" alt="PyPI" /></a></td>
+		<td>Taka amounts in words (English and Bangla, lakh/crore), mobile number validation with operator detection, Bangla digits</td>
+		<td><code>pip install bdkit</code></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/sarif-mia/scientific-calculator"><strong>scientific-calculator</strong></a><br /><a href="https://pypi.org/project/scientific-calculator-v1/"><img src="https://img.shields.io/pypi/v/scientific-calculator-v1?label=PyPI&style=flat-square" alt="PyPI" /></a></td>
+		<td>Scientific calculator for Python and the terminal with safe expression evaluation and an interactive mode</td>
+		<td><code>pip install scientific-calculator-v1</code></td>
+	</tr>
+	<tr>
+		<td><a href="https://pypi.org/project/streamlit-mini-toolkit/"><strong>mini-toolkit</strong></a><br /><a href="https://pypi.org/project/streamlit-mini-toolkit/"><img src="https://img.shields.io/pypi/v/streamlit-mini-toolkit?label=PyPI&style=flat-square" alt="PyPI" /></a></td>
+		<td>25 everyday image, document, text and web utilities in one Streamlit app</td>
+		<td><code>pip install streamlit-mini-toolkit</code></td>
+	</tr>
+</table>
 
 ## Websites I Have Worked On
 
