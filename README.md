@@ -73,7 +73,7 @@ I'm a full-stack software engineer with **5+ years** of experience designing, bu
 			<sub>React · TypeScript · PostgreSQL · Supabase</sub>
 		</td>
 		<td width="50%" valign="top">
-			<h3><a href="https://fabriq-erp.vercel.app">Fabriq ERP ↗</a></h3>
+			<h3><a href="https://fabriq.aihrbd.com">Fabriq ERP ↗</a></h3>
 			Business operations and resource planning in one workspace.
 			<br /><br />
 			<sub>React · TypeScript · PostgreSQL · Supabase</sub>
