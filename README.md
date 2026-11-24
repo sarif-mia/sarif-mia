@@ -7,10 +7,10 @@
 </a>
 
 <p align="center">
-	<a href="https://sarif.aihrbd.com"><img src="https://img.shields.io/badge/Portfolio-sarif.aihrbd.com-4f46e5?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-	<a href="https://www.linkedin.com/in/sarif-mia/"><img src="https://img.shields.io/badge/LinkedIn-sarif--mia-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-	<a href="mailto:sarifmia.ofc@gmail.com"><img src="https://img.shields.io/badge/Email-sarifmia.ofc%40gmail.com-d97706?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-	<a href="#open-source"><img src="https://img.shields.io/badge/PyPI-5%20packages-3775a9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI packages" /></a>
+	<a href="https://sarif.aihrbd.com"><img src="assets/badges/link-portfolio.svg" alt="Portfolio" /></a>
+	<a href="https://www.linkedin.com/in/sarif-mia/"><img src="assets/badges/link-linkedin.svg" alt="LinkedIn" /></a>
+	<a href="mailto:sarifmia.ofc@gmail.com"><img src="assets/badges/link-email.svg" alt="Email" /></a>
+	<a href="#open-source"><img src="assets/badges/link-pypi.svg" alt="PyPI packages" /></a>
 </p>
 
 ## About
@@ -60,9 +60,9 @@ I'm a full-stack software engineer with **5+ years** of experience designing, bu
 			<h3><a href="https://vms.aihrbd.com">AIHR BD Visitor ↗</a></h3>
 			<strong>Visitor management for factories and offices.</strong> Safe, fast visitor entry at every gate: photo and NID registration, live host approval, QR passes, gate pass and delivery tracking, emergency roll call, and Excel reports. Bilingual (English and বাংলা) with a self-service lobby kiosk.
 			<br /><br />
-			<img src="https://img.shields.io/badge/Flagship-AIHR%20BD-0f766e?style=flat-square" alt="Flagship" />
-			<img src="https://img.shields.io/badge/Kiosk%20mode-555?style=flat-square" alt="Kiosk mode" />
-			<img src="https://img.shields.io/badge/EN%20%2F%20BN-555?style=flat-square" alt="English and Bangla" />
+			<img src="assets/badges/tag-flagship.svg" alt="Flagship" />
+			<img src="assets/badges/tag-kiosk.svg" alt="Lobby kiosk" />
+			<img src="assets/badges/tag-bilingual.svg" alt="English and Bangla" />
 		</td>
 	</tr>
 	<tr>
@@ -137,11 +137,11 @@ Python packages on PyPI for Bangladesh-specific problems. All MIT-licensed, test
 Websites I have built or worked on:
 
 <p>
-	<a href="https://lovegen.com"><img src="https://img.shields.io/badge/lovegen.com-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="lovegen.com" /></a>
-	<a href="https://lvgn.com"><img src="https://img.shields.io/badge/lvgn.com-2563eb?style=flat-square&logo=googlechrome&logoColor=white" alt="lvgn.com" /></a>
-	<a href="https://dunamiss.in"><img src="https://img.shields.io/badge/dunamiss.in-0f766e?style=flat-square&logo=googlechrome&logoColor=white" alt="dunamiss.in" /></a>
-	<a href="https://dunacare.in"><img src="https://img.shields.io/badge/dunacare.in-d97706?style=flat-square&logo=googlechrome&logoColor=white" alt="dunacare.in" /></a>
-	<a href="https://nds9.co"><img src="https://img.shields.io/badge/nds9.co-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="nds9.co" /></a>
+	<a href="https://lovegen.com"><img src="assets/badges/site-lovegen.svg" alt="lovegen.com" /></a>
+	<a href="https://lvgn.com"><img src="assets/badges/site-lvgn.svg" alt="lvgn.com" /></a>
+	<a href="https://dunamiss.in"><img src="assets/badges/site-dunamiss.svg" alt="dunamiss.in" /></a>
+	<a href="https://dunacare.in"><img src="assets/badges/site-dunacare.svg" alt="dunacare.in" /></a>
+	<a href="https://nds9.co"><img src="assets/badges/site-nds9.svg" alt="nds9.co" /></a>
 </p>
 
 ## Let's Work Together
@@ -149,7 +149,7 @@ Websites I have built or worked on:
 I'm open to freelance projects, product collaborations, and engineering roles. Email is the fastest way to reach me, and I usually reply within a day.
 
 <p>
-	<a href="mailto:sarifmia.ofc@gmail.com"><img src="https://img.shields.io/badge/Email%20me-d97706?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-	<a href="https://www.linkedin.com/in/sarif-mia/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-	<a href="https://sarif.aihrbd.com"><img src="https://img.shields.io/badge/View%20portfolio-4f46e5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
+	<a href="mailto:sarifmia.ofc@gmail.com"><img src="assets/badges/cta-email.svg" alt="Email me" /></a>
+	<a href="https://www.linkedin.com/in/sarif-mia/"><img src="assets/badges/cta-linkedin.svg" alt="Connect on LinkedIn" /></a>
+	<a href="https://sarif.aihrbd.com"><img src="assets/badges/cta-portfolio.svg" alt="View portfolio" /></a>
 </p>
